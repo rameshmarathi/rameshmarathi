@@ -37,30 +37,6 @@ I focus on:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
 
-
-## 🎓 Education
-
-| Degree | Institution | CGPA | Status |
-|---------|-------------|------|--------|
-| **B.E in Computer Science & Engineering** | **Nitte Meenakshi Institute of Technology Bengaluru** | **7.12/10** | Graduated (2026) |
-| **Diploma in Electrical & Electronics Engineering** | **Government Polytechnic Karwar, Uttara Kannada** | **7.55/10** | Graduated (2023) |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Organization | Year |
-|---------------|--------------|------|
-| 🎓 Google Data Analytics Foundations – *Data, Data, Everywhere* | Google / Coursera | 2026 |
-| 💼 Data Analytics Job Simulation | Deloitte Forage | 2026 |
-| ☁️ AWS Academy Cloud Foundations | Amazon Web Services (AWS Academy) | 2025 |
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
-
 ## 🧰 Technical Skills
 
 <div align="center">
@@ -158,19 +134,6 @@ I focus on:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
-
-
-## 💼 Internships
-
-| Company | Role | Duration | Experience |
-|---------|------|----------|------------|
-| **Cravita Technologies Pvt. Ltd., Pune** | **Data Analytics Engineer Intern** | **Jan 2026 – Feb 2026** | • Analyzed customer behavior, rental booking, and sales datasets using **SQL, Python (Pandas), Excel, and Power BI** to identify trends and business insights.<br><br>• Built interactive dashboards and KPI reports that enabled stakeholders to monitor sales performance, customer activity, and operational metrics more effectively. |
-| **MAHLE ANAND Thermal Systems Pvt. Ltd., Greater Noida** | **Industrial Data Analyst Trainee** | **Feb 2023 – Jun 2023** | • Analyzed production and machine performance data using **Excel and SQL** to monitor KPIs, identify downtime patterns, and improve operational efficiency.<br><br>• Automated daily production reports and created data-driven summaries to support manufacturing teams in monitoring productivity and process performance. |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
-
-
-
 
 ## 🎯 2026 Career Goals
 

@@ -170,19 +170,6 @@ I focus on:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
 
 
-## 📊 Data Analytics Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🏦 [Bank Loan Performance & Risk Analysis Dashboard](https://github.com/analyst-prahlad/Bank_Loan_Performance_and_Risk-Analysis_Dashboard-main)** | Analyzed **38,000+ loan records** to evaluate loan performance, credit risk, borrower behavior, repayment trends, and portfolio health through interactive dashboards and KPIs. | SQL • Python • Excel • Power BI • Tableau |
-| **📈 [Meta Ads Campaign Performance Dashboard (ROI & CTR Analysis)](https://github.com/analyst-prahlad/Meta_Ads_Campaign_Performance_Dashboard-ROI-CTR-Analysis-main)** | Evaluated Meta advertising campaign performance by analyzing **ROI, CTR, CPC, impressions, conversions, and campaign effectiveness** to optimize marketing decisions. | SQL • Python • Excel • Power BI |
-| **📱 [Telecom Customer Churn Analysis](https://github.com/analyst-prahlad/telecom-churn-pro-main)** | Identified customer churn patterns using exploratory data analysis and business intelligence dashboards to help improve customer retention strategies. | Python • Pandas • SQL • Power BI |
-| **🦠 [COVID-19 Time Series Forecasting & Statistical Modeling](https://github.com/analyst-prahlad/covid19-time-series-forecasting-and-statistical-modeling-main)** | Built statistical and time-series forecasting models to analyze COVID-19 trends and predict future case growth using historical datasets. | Python • Pandas • NumPy • Matplotlib • Statistics |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,11,12,20,24,30"/>
-
-
-
 
 
 ## 🎯 2026 Career Goals
